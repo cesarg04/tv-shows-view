@@ -2,5 +2,5 @@
 1. Clonar proyecto
 2. Instalar dependencias
 ```yarn install```
-3. En este caso, deje el archivo ```.env``` ya que no contiene datos sensibles.
+3. Clonar el archivo ```.env.local.example``` y renombrarlo a ```.env.local```
 4. Levantar la aplicacion: ```yarn dev```
