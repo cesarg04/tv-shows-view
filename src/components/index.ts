@@ -1,0 +1,6 @@
+export * from './CardShow'
+export * from './ImagenPortada'
+export * from './ImagenesShow'
+export * from './Nabvar'
+export * from './NombreTituloCard'
+export * from './Paginacion' 
